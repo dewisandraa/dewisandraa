@@ -2,7 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-## Hi! 👋 I graduated from UC Berkeley with a degree in Data Science concentrating in Business and Industrial Analytics. I'm currently working as an Associate in renewable energy consulting, where I support research and quantitative analytics that will be used for the planning of decarbonization strategies and facilitating the transition to clean energy. I'm passionate about leveraging my skills to make a positive impact, particularly in the areas of sustainability and education.🍄 In my free time, I enjoy being around nature, picking up new skills, traveling, diving into a book, and cooking and eating good food. Always down to chat and open to receiving food/book recommendations! Feel free to reach out to me at dewisandra@berkeley.edu.
+## Hi! 👋
+
+I graduated from UC Berkeley with a degree in Data Science concentrating in Business and Industrial Analytics. I'm currently working as an Associate in renewable energy consulting, where I support research and quantitative analytics that will be used for the planning of decarbonization strategies and facilitating the transition to clean energy. 
+
+I'm passionate about leveraging my skills to make a positive impact, particularly in the areas of sustainability and education.🍄 In my free time, I enjoy being around nature, picking up new skills, traveling, diving into a book, and cooking and eating good food. Always down to chat and open to receiving food/book recommendations! Feel free to reach out to me at dewisandra@berkeley.edu.
 
 <!--
 **dewisandraa/dewisandraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
