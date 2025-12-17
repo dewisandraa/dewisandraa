@@ -4,9 +4,12 @@
 
 ## Hi! 👋
 
-I graduated from UC Berkeley with a degree in Data Science concentrating in Business and Industrial Analytics. I'm currently working as an Associate in a renewable energy consulting, where I support research and quantitative analytics that will be used for the planning of decarbonization strategies and facilitating the transition to clean energy. I'm passionate about leveraging my skills to make a positive impact, particularly in the areas of sustainability and education.
+I graduated from UC Berkeley with a degree in Data Science, concentrating in Business and Industrial Analytics. I’m currently an Analytics Engineer at a startup in Singapore, where I build end-to-end data engineering pipelines, data models, and analytics dashboards. My current tech stack includes RDS PostgreSQL, Dagster, AWS EC2, S3, Glue & Athena, Power BI, and Tableau.
+I’m a curious, lifelong learner who enjoys growing through hands-on work, and I’m passionate about using data to create meaningful, positive impact—especially in sustainability and education.
 
-🍄 In my free time, I enjoy being around nature, picking up new skills, traveling, diving into a book, and cooking and eating good food. Always down to chat and open to receiving food/book recommendations! Feel free to reach out to me at dewisandra@berkeley.edu.
+🍄 Outside of work, I enjoy playing tennis, traveling, reading, and cooking (and eating!) good food. I’m always happy to chat and open to food or book recommendations.
+
+Feel free to reach out to me at dewisandra@berkeley.edu.
 
 <!--
 **dewisandraa/dewisandraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
