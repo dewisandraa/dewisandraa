@@ -2,7 +2,7 @@
   <img="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjg4cnh1YTRwa3F1OTVnczFmNzc4YjYzam40dWwzaTdpeGZjd3liYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiZ6kV683kPaU/giphy.gif" width="100"/>
 </div>
 
-## 👋
+## Hi!
 
 I graduated from UC Berkeley with a degree in Data Science, concentrating in Business and Industrial Analytics. I’m currently working as an Analytics Engineer at a startup in Singapore, where I build end-to-end data engineering pipelines, data models, and analytics dashboards. My current tech stack includes RDS PostgreSQL, Dagster, AWS EC2, S3, Glue & Athena, Power BI, and Tableau.
 
