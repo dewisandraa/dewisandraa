@@ -4,13 +4,11 @@
 
 ## Hi!
 
-I graduated from UC Berkeley with a degree in Data Science, concentrating in Business and Industrial Analytics. I’m currently working as an Analytics Engineer at a startup in Singapore, where I build end-to-end data engineering pipelines, data models, and analytics dashboards. My current tech stack includes RDS PostgreSQL, Dagster, AWS EC2, S3, Glue & Athena, Power BI, and Tableau.
+I graduated from UC Berkeley with a degree in Data Science and a concentration in Business and Industrial Analytics. I’m an Analytics Engineer at a startup in Singapore, where I build end-to-end data pipelines, data models, and dashboards. I work with PostgreSQL on Amazon RDS, Dagster, AWS EC2, S3, Glue, Athena, Power BI, and Tableau. I enjoy learning by building and am always looking for ways to deepen my skills in data science.
 
-I’m a curious, lifelong learner who enjoys growing through hands-on work. I also look for small, everyday ways to contribute back to my community through math tutoring and providing career mentorship.
+🍄 Outside of work, I like to help the people around me when I can through career mentorship and math tutoring. I also enjoy playing tennis, traveling, reading, and cooking (and eating!) good food.
 
-🍄 Outside of work, I enjoy playing tennis, traveling, reading, and cooking (and eating!) good food. I’m always happy to chat and open to food or book recommendations.
-
-Feel free to reach out to me at dewisandra@berkeley.edu.
+I’m always happy to chat and would love your food or book recommendations. Feel free to reach out at dewisandra@berkeley.edu.
 
 <!--
 **dewisandraa/dewisandraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
