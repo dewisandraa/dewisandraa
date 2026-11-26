@@ -6,7 +6,7 @@
 
 I graduated from UC Berkeley with a degree in Data Science, concentrating in Business and Industrial Analytics. I’m currently working as an Analytics Engineer at a startup in Singapore, where I build end-to-end data engineering pipelines, data models, and analytics dashboards. My current tech stack includes RDS PostgreSQL, Dagster, AWS EC2, S3, Glue & Athena, Power BI, and Tableau.
 
-I’m a curious, lifelong learner who enjoys growing through hands-on work, and I’m passionate about using data to create meaningful, positive impact, especially in sustainability and education.
+I’m a curious, lifelong learner who enjoys growing through hands-on work. I also look for small, everyday ways to make a difference through tutoring math and providing career mentorship.
 
 🍄 Outside of work, I enjoy playing tennis, traveling, reading, and cooking (and eating!) good food. I’m always happy to chat and open to food or book recommendations.
 
