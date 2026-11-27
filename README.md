@@ -6,7 +6,7 @@
 
 I graduated from UC Berkeley with a degree in Data Science and a concentration in Business and Industrial Analytics. I’m currently working as an Analytics Engineer at a startup in Singapore, where I help develop end-to-end data pipelines, data models, and dashboards. My current tech stack includes Python, SQL, Dagster, PostgreSQL on Amazon RDS, AWS (EC2, S3, Glue, and Athena), Power BI, and Tableau. I enjoy learning by building and am always looking for ways to deepen my skills in data science. 
 
-🍄 Outside of work, I like to help the people around me when I can through career mentorship and math tutoring. I also enjoy playing tennis, traveling, reading, and cooking (and eating!) good food.
+🍄 Outside of work, I like to help the people around me when I can through career mentorship or math tutoring. I also enjoy playing tennis, traveling, reading, and cooking (and eating!) good food.
 
 I’m always happy to chat and would love your food or book recommendations. Feel free to reach out at dewisandra@berkeley.edu.
 
